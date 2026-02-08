@@ -39,7 +39,7 @@ _ _ _
 ## Installation
 1. Cloner lez projet
    Git clone
-   lin github++++
+   lien github++++
 
 2. Aller dans l dossier cd bibliohub+++
 
