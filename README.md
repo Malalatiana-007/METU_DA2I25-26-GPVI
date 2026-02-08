@@ -120,6 +120,6 @@ Le site est déployé avec GitHub Pages.
  _ _ _
  
 ## Auteur/ Equipe
-Réalisé par les membres du groupe VI composés de 10 membres 
+Réalisé par les membres du groupe VI composés de 10 membres ( Rogatiana, Joy, Raminah, Harizo, Atovia, Jean Claude, Adolph Fiderana, Malalatiana,...)
 
 
