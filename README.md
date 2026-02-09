@@ -11,6 +11,7 @@ Chaque membre a travaillé sur une page ou une partie du projet dans sa propre b
 ## Technologies utilisées
 - HTML
 - CSS
+- JavaScript
 - GitHub (branches, commits, pull requests)
 - GitHub Pages (déploiement)
 
