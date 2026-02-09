@@ -71,7 +71,7 @@ _ Formulaire de contact
 ## Membres de l’équipe et rôles
 
 - Rogatiana : Responsable CSS / Design  
-- Joy : Page Accueil (`index.html`)  
+- Joy: Page Accueil (`index.html`)  
 - Raminah : Page Horaire (`horaire.html`)  
 - Harizo : Page Règlement (`reglement.html`)  
 - Atovia : Page Catégorie (`categorie.html`)  
